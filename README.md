@@ -1,1 +1,1 @@
-Kullanıcıdan alınan değerle, dizideki en yakın minimum ve en yakın maksimum değerleri gösteren uygulama
+Application that displays the closest minimum and closest maximum values ​​in the array, with the value received from the user
